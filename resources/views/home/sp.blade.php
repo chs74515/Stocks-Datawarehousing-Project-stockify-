@@ -8,7 +8,7 @@
     <div class="mt-4">
 
         <!-- section heading -->
-        <h3 class="card-title text-center h3 h3-responsive pb-3 font-bold"><strong>All S&P 500 Companies (Summary-Covid19) <span id="curr">USD</span></strong></h2>
+        <h3 class="card-title text-center h3 h3-responsive pb-3 font-bold"><strong>All S&P 500 Companies (Summary - Covid19) <span id="curr">USD</span></strong></h2>
 
             <!-- visual data -->
             <div class="col-lg-12">
